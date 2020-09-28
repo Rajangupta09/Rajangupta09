@@ -36,7 +36,7 @@
 
 <h3 align="center">Where to find me-</h3>
 <p align="center"><a href="https://www.hackerrank.com/rjnkumar05"  target="_blank"><img alt="HackerRank" src="https://pbs.twimg.com/profile_images/1281089565306978306/lY9LTGve_400x400.jpg" width="40px" /></a>&nbsp;&nbsp; 
-<a href="www.linkedin.com/in/rajangupta09" target="_blank"><img alt="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40px" /></a> 
+<a href="https://www.linkedin.com/in/rajangupta09" target="_blank"><img alt="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40px" /></a> 
   
 </p>
 
