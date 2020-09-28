@@ -28,9 +28,9 @@
   <img alt="git" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80px" />
   <img alt="github" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
   <img alt="npm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="80px" />
-</p><br />
+</p>
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"  align="right" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p> <br />
+<p>
 <img height='130px' src="https://github-readme-stats.vercel.app/api?username=Rajangupta09&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,0,0,0,0&theme=graywhite" /><br /> <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajangupta09&hide_title=true&layout=compact&bg_color=0,0,0,0&theme=graywhite" />
 </p>
 
