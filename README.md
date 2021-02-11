@@ -23,7 +23,6 @@
   <img alt="mysql" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80px" />
   <img alt="postgres" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" width="60px" />
   <img alt="Heroku" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" width="60px" />
-  <img alt="Webpack" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" width="60px" />
   <img alt="Sass" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="60px"/>
   <img alt="git" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80px" />
   <img alt="github" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
