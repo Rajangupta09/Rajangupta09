@@ -30,7 +30,7 @@
 </p>
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"  align="right" width="30%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
-<img height='130px' src="https://github-readme-stats.vercel.app/api?username=Rajangupta09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false&" /><br /> <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajangupta09&hide_title=true&layout=compact&bg_color=0,0,0,0&theme=graywhite&hide=html,css&langs_count=6&count_private=true" />
+<img height='140px' src="https://github-readme-stats.vercel.app/api?username=Rajangupta09&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false&" /><br /> <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajangupta09&hide_title=true&layout=compact&bg_color=0,0,0,0&theme=graywhite&hide=html,css&langs_count=6&count_private=true" />
 </p>
 
 <h3 align="center">Where to find me-</h3>
